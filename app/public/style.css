@@ -1,0 +1,41 @@
+body{
+    background-color: rgba(113, 21, 21, .54);
+}
+
+h3{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 5px;
+}
+h3:hover{
+    background-image: linear-gradient(120deg, #fa8072, #20b2aa);
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+p{
+    text-align: right;
+}
+
+p:first-child{
+    margin-top: 35px;
+}
+p:first-child em{
+    font-weight: bold;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:visited{
+    color: beige;
+}
+
+a:hover{
+    background-color: purple;
+}
